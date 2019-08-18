@@ -1,0 +1,12 @@
+p{
+    color:crimson;
+    font-size: 1,5em;
+}
+
+p.competencias{
+    color:aqua;
+}
+
+.competencias{
+    color:forestgreen;
+}
